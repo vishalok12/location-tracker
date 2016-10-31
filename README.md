@@ -8,11 +8,12 @@
 ### Installation Steps
 
 - Run these commands (assuming node version > 0.12.*)
-    ```sh
+
+    ```bash
     $ npm install
     $ npm start
     ```
-- Open http://localhost:3000 on browser
+- Open [http://localhost:3000](http://localhost:3000) on browser
 
 ### Plugins
 I used some open-sourced plugins to achieve this assignment:

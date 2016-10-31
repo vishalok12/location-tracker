@@ -1,0 +1,24 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	font-family: Open Sans,Helvetica,Arial,sans-serif !important;
+	background: #e6e6e6;
+}
+
+.app {
+	height: 100%;
+}
+
+:global(.SingleDatePicker__picker--invisible) {
+	/*display: none;*/
+	height: 0;
+	z-index: -1;
+}
+
+.mapContainer {
+	height: 100%;
+	position: relative;
+    padding-right: 250px;
+}
